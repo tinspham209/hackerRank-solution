@@ -1,0 +1,2 @@
+`Bit Manipulation: Lonely Integer`
+https://www.hackerrank.com/challenges/ctci-lonely-integer/problem
